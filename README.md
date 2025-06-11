@@ -1,5 +1,5 @@
 # FREE CASINO SITE WITH OUR INTEGRATED SLOT API
-
+new update
 ## Overview
 Welcome to the ultimate solution for launching your online casino! Our free, premade casino site template is specifically designed to integrate seamlessly with our slot API, providing you with a robust and feature-rich platform to get started quickly. Whether you're a developer looking to build a casino from scratch or an entrepreneur wanting to expand into the online gaming industry, our template is the perfect choice.
 
